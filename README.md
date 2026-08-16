@@ -2,8 +2,8 @@
 PCB board digin structure #3
 ##NNN
 PCB board diginer 
+IPC 
 
----
 ### 🛠️ Manufacturing & IPC Compliance Data
 
 This design strictly follows international IPC standards for reliable PCB manufacturing and assembly.
